@@ -18,3 +18,8 @@
 2. Second step
 
 [Visit GitHub](https://github.com)
+
+## Partner's Contribution
+- My name is Tadas
+- Cloned it to our local computer
+- Learned Markdown syntax
